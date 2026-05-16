@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="420"/>
+<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="420"/>
 
 </div>
 
@@ -113,7 +113,7 @@
 
 # 📈 GitHub Activity Graph
 
-[![Gowthami's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gowthami1980&theme=nightowl)](https://github.com/gowthami1980)
+[![Gowthami's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gowthami1980&theme=dracula)](https://github.com/gowthami1980)
 
 ---
 
