@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=750&height=60&color=FF69B4&duration=4000&lines=Full+Stack+Developer;Quick+Learner;Independent+Thinker" />
 
 <br><br>
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 </div>
 
 ---
