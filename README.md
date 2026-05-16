@@ -6,7 +6,15 @@
 
 <br><br>
 
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420"/>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJ4M2I0NjV4aXBvM3VqNWF2a2Z4N2o3eGx2YWV0eXJpdjJ0YzR2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="420"/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="420"/>
 <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="420"/>
+
+
 
 </div>
 
@@ -106,6 +114,7 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
 
 </div>
 
