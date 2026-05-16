@@ -2,11 +2,11 @@
 
 # 🌸 Hey There, I'm Gowthami E 👋
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=750&height=60&color=FF69B4&duration=4000&lines=BSc+PMCS+Graduate;Java+Full+Stack+Developer;Python+%26+IoT+Enthusiast;Quick+Learner+%26+Creative+Thinker;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=750&height=60&color=FF69B4&duration=4000&lines=Full+Stack+Developer;Creative+Thinker;Passionate+Learner" />
 
-<br>
+<br><br>
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 
 </div>
 
@@ -14,30 +14,11 @@
 
 # 🌷 About Me
 
-```yaml
-Name: Gowthami E
-Education: BSc (PMCS)
-Location: Bangalore, India 🇮🇳
-Passion:
-  - Java Full Stack
-  - Python Projects
-  - IoT Development
-  - Web Technologies
-  - Problem Solving
-Goal:
-  To become a skilled software developer
-  and contribute to innovative projects.
-```
+✨ Passionate Full Stack Developer with interest in creating modern and user-friendly applications.
 
----
+✨ Enthusiastic learner focused on improving programming and problem-solving skills.
 
-# 🌸 Professional Summary
-
-✨ Enthusiastic and self-motivated graduate passionate about software development and technology.
-
-✨ Skilled in Java Full Stack Development, Python, and IoT-based applications.
-
-✨ Strong communication skills, focused mindset, and eagerness to continuously learn and grow.
+✨ Interested in web technologies, creative development, and building innovative projects.
 
 ---
 
@@ -45,7 +26,7 @@ Goal:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,git,github,vscode" />
 
 </div>
 
@@ -56,8 +37,7 @@ Goal:
 - ☕ Advanced Java
 - 🌐 Full Stack Development
 - 🐍 Python Projects
-- 📊 Database Management
-- 🚀 Git & GitHub
+- 🔗 Git & GitHub
 - 💡 Problem Solving
 
 ---
@@ -108,7 +88,6 @@ Goal:
 - 🎯 Focused Mindset
 - ⏰ Time Management
 - 🌸 Patience
-- 🤝 Team Collaboration
 
 ---
 
@@ -117,8 +96,8 @@ Goal:
 - 🚀 Become Full Stack Developer
 - 💻 Build Real-World Projects
 - 🌱 Learn Advanced Technologies
-- ⭐ Contribute to Open Source
-- 📈 Improve Problem Solving Skills
+- ⭐ Improve Coding Skills
+- 📈 Improve Problem Solving
 
 ---
 
