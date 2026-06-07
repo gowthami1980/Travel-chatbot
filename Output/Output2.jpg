@@ -1,0 +1,41 @@
++------------------------------------------------------------------+
+|                    🌍 TRAVEL GUIDE CHATBOT                       |
++------------------------------------------------------------------+
+
+Bot: Welcome! Where would you like to travel?
+
+You: Mysore
+
+Bot:
+
+Places to Visit in Mysore
+
+1. Mysore Palace
+   Ticket Price: ₹100
+
+2. Chamundi Hills
+   Ticket Price: Free
+
+3. Brindavan Gardens
+   Ticket Price: ₹50
+
+4. Mysore Zoo
+   Ticket Price: ₹100
+
+Hotels
+
+1. Royal Orchid Metropole
+   Price: ₹4500/night
+
+2. Pai Vista Hotel
+   Price: ₹3000/night
+
+Estimated Trip Cost
+
+Budget Trip: ₹4000 - ₹6000
+Standard Trip: ₹8000 - ₹12000
+Luxury Trip: ₹15000+
+
++------------------------------------------------------------------+
+| Type destination here...                               [Send]    |
++------------------------------------------------------------------+

@@ -1,5 +1,10 @@
 <div align="center">
 ## Travel Guide chatbot Project
+## Project output
+### output1
+![Output 1](Output1.jpg)
+### Output2
+![Output 2](Output2.jpg)
 # 🌸 Hello, I'm Gowthami E 👋
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=750&height=60&color=FF69B4&duration=4000&lines=Full+Stack+Developer;Quick+Learner;Independent+Thinker" />
